@@ -23,3 +23,5 @@ data/batch/
 Thumbs.db
 
 CLAUDE.md
+data/mcp/
+mcp_to_onet_classification

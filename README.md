@@ -14,6 +14,8 @@ For each of ~9,000+ MCP servers scraped from [mcp.so](https://mcp.so):
 4. **Aggregation** — Ratings are aggregated across all MCPs to produce a ranked list of tasks by automation potential.
 
 ## Deliverable Files
+Full result datasets are hosted on HuggingFace:
+https://huggingface.co/datasets/theodorewright11/mcp_to_onet_classification
 
 | File | Description |
 |------|-------------|
