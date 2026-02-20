@@ -51,6 +51,7 @@ The most recent dated version of each is the current canonical dataset. Older da
 | `median_rating` | Median rating |
 | `max_rating` / `min_rating` | Max and min ratings |
 | `p25_rating` / `p75_rating` | 25th and 75th percentile ratings |
+| `mcp_titles` | `" \|\| "`-separated sorted list of MCP server titles that rated this task |
 
 ### Task Rating Scale
 

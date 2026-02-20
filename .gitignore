@@ -24,4 +24,5 @@ Thumbs.db
 
 CLAUDE.md
 data/mcp/
+# hugging face repo folder
 mcp_to_onet_classification
